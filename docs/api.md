@@ -1,1 +1,1 @@
-::: zzl_mkdoc_sample
+::: mkdoc_sample

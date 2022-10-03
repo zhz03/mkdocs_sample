@@ -11,7 +11,7 @@ nav:
   - Contributing: contributing.md
   - Changelog: changelog.md
 theme:
-  name: material
+  name: material  # readthedocs # mkdocs # material
   language: en
   #logo: assets/logo.png
   palette:
@@ -21,6 +21,7 @@ theme:
   features:
     - navigation.indexes
     - navigation.instant
+    # - navigation.tabs
     - navigation.tabs.sticky
 markdown_extensions:
   - pymdownx.emoji:
