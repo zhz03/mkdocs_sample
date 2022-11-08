@@ -1,0 +1,12 @@
+mkdocs-material-extensions 
+django-material
+django
+mkdocs-include-markdown-plugin
+mkdocstrings
+mkdocs-material
+mkdocstrings-python
+mkdocs-blogging-plugin==2.0.0
+mkdocs-awesome-pages-plugin
+mkdocs-git-revision-date-localized-plugin
+mkdocs-encryptcontent-plugin
+mkdocs-exclude

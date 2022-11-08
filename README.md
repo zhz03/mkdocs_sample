@@ -8,6 +8,19 @@ A mkdoc sample
 * PyPI: <https://pypi.org/project/zzl_mkdoc_sample/>
 * Free software: MIT
 
+## Install environment
+
+```
+conda env create -f environment.yml
+```
+
+Or install mkdocs dependencies:
+
+```
+pip3 install -r requirement.txt
+```
+
+
 
 ## Features
 

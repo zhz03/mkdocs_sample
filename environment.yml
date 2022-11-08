@@ -20,7 +20,7 @@ dependencies:
     - PyNaCl
     - click
     - mkdocs
-    - mkdocs-material-extensions
+    - mkdocs-material-extensions # the following requires pip3 install xxx
     - django-material
     - django
     - mkdocs-include-markdown-plugin
