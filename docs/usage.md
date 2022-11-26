@@ -13,15 +13,38 @@ import zzl_mkdoc_sample
 
 !!! info "info"
 	This is info. 
-	
-!!! solution "solution"
-	This is solution.
-	
-!!! exercise "exercise"
-	This is exercise.
-	
+
+!!! info inline end
+	To the right.
+
+!!! info inline
+	To the left.
+
+
 !!! warning "warning"
-	This is warning.
+	This is warning. 
 	
+	What do you need?
+
 !!! error "error"
 	This is error.
+
+!!! question "Question"
+	This is a question.
+
+???+ solution "solution"
+	This is a hidden solution.
+
+??? exercise "exercise"
+	This is exercise.
+
+!!! tip
+	This is a tip.
+	
+??? success
+	This is a hidden sucess 
+
+## Reference
+
+[1] [For more info, check Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
+
